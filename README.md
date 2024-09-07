@@ -4,7 +4,7 @@
 
 - I’m Iakobi Kvantrishvili, a full-stack software engineer by day, and problem-solver always. I spend my time tinkering with code and making things run a little smoother. I am heavily into blockchain🌐 and Trading📈
 
-- I’m currently working towards my Master’s in Software Engineering at Villanova🎓, diving into DevOps, Algorithm Design, and all the cool things that make systems tick.🕹️
+- I’m currently working towards my Master’s in Software Engineering at Villanova🎓, diving into DevOps, Algorithm Design, and all the cool things that make systems tick🕹️
 
 - When I’m not knee-deep in Java, C#, or TypeScript, you can find me at the gym🏋️‍♂️ or out playing soccer⚽
 
