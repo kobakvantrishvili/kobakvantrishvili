@@ -49,15 +49,14 @@
 <img align="left" alt="Kubernetes" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<br />
-<br />
+<br /><br />
+
 
 ---
 
 ### 📊 Stats
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=kobakvantrishvili&show_icons=true&locale=en" alt="kobakvantrishvili" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kobakvantrishvili&show_icons=true&locale=en&layout=compact" alt="kobakvantrishvili" />
 </div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
