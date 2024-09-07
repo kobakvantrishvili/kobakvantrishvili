@@ -1,6 +1,6 @@
 # 🗿 Iakobi (Koba) Kvantrishvili
 
-**`SWE NEW GRAD`**
+**`SOFTWARE ENGINEER`**
 
 - I’m Iakobi Kvantrishvili, a full-stack software engineer by day, and problem-solver always. I spend my time tinkering with code and making things run a little smoother. I am heavily into blockchain🌐 and Trading📈
 
