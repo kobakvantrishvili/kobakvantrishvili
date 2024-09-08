@@ -56,7 +56,7 @@
 
 ### 📊 Stats
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kobakvantrishvili&show_icons=true&locale=en" alt="kobakvantrishvili" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kobakvantrishvili&&theme=tokyonight" alt="kobakvantrishvili" />
 </div>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
