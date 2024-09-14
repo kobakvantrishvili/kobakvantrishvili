@@ -2,11 +2,11 @@
 
 **`SOFTWARE ENGINEER`**
 
-- I’m Iakobi Kvantrishvili, a full-stack software engineer by day, and problem-solver always. I spend my time tinkering with code and making things run a little smoother. I am heavily into blockchain🌐 and Trading📈
+- I am Iakobi Kvantrishvili, a dedicated full-stack software engineer passionate about problem-solving and optimizing code. My interests lie significantly in blockchain technology 🌐 and trading 📈
 
-- I’m currently working towards my Master’s in Software Engineering at Villanova🎓, diving into DevOps, Algorithm Design, and all the cool things that make systems tick🕹️
+- Currently, I am pursuing a Master's degree in Software Engineering at Villanova University 🎓, focusing on areas such as DevOps, Algorithm Design, and the underlying principles that drive system functionality 🕹️
 
-- When I’m not knee-deep in Java, C#, or TypeScript, you can find me at the gym🏋️‍♂️ or out playing soccer⚽
+- Beyond my technical pursuits, I enjoy staying active at the gym 🏋️‍♂️ and playing soccer ⚽
 
 <h3 align="left">🔗Connect with me:</h3>
 <a href="https://linkedin.com/in/iakobi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
