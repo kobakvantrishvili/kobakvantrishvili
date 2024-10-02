@@ -56,13 +56,3 @@
     <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 <br /><br />
-
-
----
-
-### 📊 Stats
-<div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kobakvantrishvili&&theme=tokyonight" alt="kobakvantrishvili" />
-</div>
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
