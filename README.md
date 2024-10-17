@@ -1,8 +1,8 @@
 # 🗿 Iakobi (Koba) Kvantrishvili
 
-**`SOFTWARE ENGINEER`**
+**` SOFTWARE ENGINEER `**
 
-- I am Iakobi Kvantrishvili, a dedicated full-stack software engineer passionate about problem-solving and optimizing code. My interests lie significantly in blockchain technology 🌐 and trading 📈
+- I am Iakobi Kvantrishvili, a dedicated full-stack software engineer passionate about problem-solving and optimizing code. My interests lie significantly in robotics 🤖, blockchain technology 🌐 and trading 📈
 
 - Currently, I am pursuing a Master's degree in Software Engineering at Villanova University 🎓, focusing on areas such as DevOps, Algorithm Design, and the underlying principles that drive system functionality 🕹️
 
